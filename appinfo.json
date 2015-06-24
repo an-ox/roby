@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yak@llamasoft.co.uk",
+    "longName": "roby",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "roby",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "4918a84e-d8d1-430f-bbc5-1f8ac924931c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
